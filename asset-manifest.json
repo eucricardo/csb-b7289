@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://eucricardo.github.io/csb-b7289/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://eucricardo.github.io/csb-b7289/static/js/main.1b4b12af.chunk.js",
+    "main.js.map": "https://eucricardo.github.io/csb-b7289/static/js/main.1b4b12af.chunk.js.map",
+    "runtime-main.js": "https://eucricardo.github.io/csb-b7289/static/js/runtime-main.eb8f0429.js",
+    "runtime-main.js.map": "https://eucricardo.github.io/csb-b7289/static/js/runtime-main.eb8f0429.js.map",
+    "static/js/2.3b47e168.chunk.js": "https://eucricardo.github.io/csb-b7289/static/js/2.3b47e168.chunk.js",
+    "static/js/2.3b47e168.chunk.js.map": "https://eucricardo.github.io/csb-b7289/static/js/2.3b47e168.chunk.js.map",
+    "index.html": "https://eucricardo.github.io/csb-b7289/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://eucricardo.github.io/csb-b7289/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.3b47e168.chunk.js.LICENSE.txt": "https://eucricardo.github.io/csb-b7289/static/js/2.3b47e168.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb8f0429.js",
+    "static/js/2.3b47e168.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1b4b12af.chunk.js"
+  ]
+}
